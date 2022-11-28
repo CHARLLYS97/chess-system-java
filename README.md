@@ -47,7 +47,7 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 - **Target** é o destino, ou seja, o local no qual o jogador irá mover a peça.
 - O jogo possui sistema de **Check** e **CheckMate**
   
-## ♟️ Instalacao
+## ♟️ Instalação
 
 1. Faça o dowload e extração do projeto. 
 2. Abra um terminal ([Git Bash](https://git-scm.com/book/pt-pt/v2/Appendix-A%3A-Git-em-Outros-Ambientes-Git-in-Bash) é o recomendado, pois é colorido)
