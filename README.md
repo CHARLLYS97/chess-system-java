@@ -68,3 +68,4 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+![Sem título-1](https://user-images.githubusercontent.com/52724220/70180907-4921ce80-16b7-11ea-91bb-ec8eb32895c1.png)
